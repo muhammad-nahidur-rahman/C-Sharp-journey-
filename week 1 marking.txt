@@ -1,0 +1,32 @@
+using System;
+
+
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        
+        int math = 83;
+        int physics = 70;
+        int biology = 82;
+        
+        int total = math + physics + biology;
+        Console.WriteLine ("Naim's mark for math and physics and biology");
+        
+        Console.WriteLine ("math " + math);
+        Console.WriteLine ("physics " + physics );
+        Console.WriteLine ("biology " + biology);
+        Console.WriteLine ("Total mark is out of 300");
+        Console.WriteLine (total);
+        Console.WriteLine ("Marks percentage is");
+        Console.WriteLine (total*100/300);
+        
+
+
+
+       
+        
+        
+    }
+}

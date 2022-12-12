@@ -1,0 +1,15 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        string [] names = {"muhammad", "fatima", "anu"};
+        Console.WriteLine (names [0]);
+        Console.WriteLine ("how many numbers {0}",names.Length);
+        
+    }
+}

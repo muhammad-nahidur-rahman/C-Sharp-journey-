@@ -1,0 +1,70 @@
+using System;
+
+namespace HelloWorld
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+        
+        string name;
+        Console.WriteLine ("put your name");
+        name = Console.ReadLine();
+    
+        
+        
+        
+        
+     int physics;
+     Console.WriteLine (" put physics mark");
+     physics = Convert.ToInt32(Console.ReadLine());
+     
+     
+     
+     int biology;
+     Console.WriteLine ("put biology marks");
+     biology = Convert.ToInt32(Console.ReadLine());
+     
+     
+     
+     int math;
+     Console.WriteLine ("put math marks");
+     math = Convert.ToInt32(Console.ReadLine());
+     
+     
+     
+     int total;
+     total = (math + physics + biology);
+     
+     float percentage;
+     percentage= (total*100) /300;
+     
+     
+     
+     
+     
+     Console.WriteLine ("Your name: {0} ", name);
+     Console.WriteLine (" Your physics mark is : {0}", physics);
+     Console.WriteLine ("Your biology mark is : {0}", biology);
+     Console.WriteLine ("Your math mark is : {0}", math);
+     Console.WriteLine ("Your total mark : {0}", total );
+     Console.WriteLine ("Your percentage : {0}" , percentage);
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+      
+    }
+  }
+}

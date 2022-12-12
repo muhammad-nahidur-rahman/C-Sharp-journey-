@@ -1,0 +1,20 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        
+        
+        int number;
+        Console.WriteLine ("put a number bro");
+        number= Convert.ToInt32(Console.ReadLine());
+        if (number >=10)
+        
+        {Console.WriteLine ("you putted greater or equal statement");
+        }
+    }
+}

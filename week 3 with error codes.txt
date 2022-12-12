@@ -1,0 +1,89 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class smol
+
+{
+    public static void Main(string[] args)
+    {
+        private int a;
+        private int b;
+        public void setVal (int a1, int b1)
+    }
+    public int add()
+    {
+        return a+b;
+    }
+    
+}
+
+class test
+{
+    public static void Main (String [] args)
+    
+    {
+        sample s1 = new// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class smol
+
+{
+    public static void Main(string[] args)
+    {
+        private int a;
+        private int b;
+        public void setVal (int a1, int b1)
+    }
+    public int add()
+    {
+        return a+b;
+    }
+    
+}
+
+class test
+{
+    public static void Main (String [] args)
+    
+    {
+        sample s1 = sample(); //object creation
+        s1.setVal(10,2);
+        Console.WriteLine ("the result is: {0}", s1.add());
+    // Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class smol
+
+{
+    public static void Main(string[] args)
+    {
+        private int a;
+        private int b;
+        public void setVal (int a1, int b1)
+    }
+    public int add()
+    {
+        return a+b;
+    }
+    
+}
+
+class test
+{
+    public static void Main (String [] args)
+    
+    {
+        sample s1 = sample(); //object creation
+        s1.setVal(10,2);
+        Console.WriteLine ("the result is: {0}", s1.add());
+     sample(); //object creation
+        s1.setVal(10,2);
+        Console.WriteLine ("the result is: {0}", s1.add());
+    
+}

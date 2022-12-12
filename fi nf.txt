@@ -1,0 +1,28 @@
+
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        
+        
+        int number;
+        Console.WriteLine ("enter your age");
+        number= Convert.ToInt32(Console.ReadLine());
+        if (number >=18)
+        
+        {Console.WriteLine ("great you are adult");
+        }
+    
+        
+        else if (number >=13)
+        {Console.WriteLine ("you are still teenager you need to grow up");
+        }
+        else 
+        Console.WriteLine ("you are a kid eat milk daily to grow");
+        
+    }
